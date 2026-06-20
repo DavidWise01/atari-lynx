@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Flip Screen",
+  "universe": "LYNX · The Flip Screen (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The Flip Screen:LYNX:7956e2⟧",
+  "carbon": "the-lynx-flip.carbon.tiff (TIFF)",
+  "silicon": "the-lynx-flip.silicon.png (PNG)",
+  "seal_sha256": "ddb6c4b25c783b885884d0efb7648f2adac265a3d6d68dd026d0e176c7932ddb",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

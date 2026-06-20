@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The 65C02
+node LYNX · LYNX · ⟦The 65C02:LYNX:16f42d⟧
+
+WHO   — The 65C02 — the 6502, refined · electrical
+WHAT  — the 6502, refined · electrical
+WHERE — LYNX · ATARI LYNX (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — A WDC 65C02 at up to ~4 MHz — a low-power evolution of the 6502 — running the games while the custom chips do the heavy graphics.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  the 6502, refined · electrical
+
+spoken token : nur-phal-myn   ·   hex : 16f42d
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

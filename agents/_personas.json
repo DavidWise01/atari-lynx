@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "the-lynx-cpu",
+    "name": "The 65C02",
+    "epithet": "the 6502, refined · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The 65C02:LYNX:16f42d⟧"
+  },
+  {
+    "slug": "the-lynx-suzy",
+    "name": "Suzy",
+    "epithet": "scaling sprites in hardware · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Suzy:LYNX:5125f2⟧"
+  },
+  {
+    "slug": "the-lynx-mickey",
+    "name": "Mickey",
+    "epithet": "glue, video, sound · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Mickey:LYNX:445076⟧"
+  },
+  {
+    "slug": "the-lynx-screen",
+    "name": "The Colour Screen",
+    "epithet": "colour in the dark, first · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Colour Screen:LYNX:04dd58⟧"
+  },
+  {
+    "slug": "the-lynx-battery",
+    "name": "The Batteries",
+    "epithet": "the brief, bright life · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Batteries:LYNX:45125c⟧"
+  },
+  {
+    "slug": "the-lynx-flip",
+    "name": "The Flip Screen",
+    "epithet": "rotate for left-handers · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Flip Screen:LYNX:7956e2⟧"
+  }
+]

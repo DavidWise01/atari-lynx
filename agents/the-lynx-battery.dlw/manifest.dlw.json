@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Batteries",
+  "universe": "LYNX · The Batteries (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Batteries:LYNX:45125c⟧",
+  "carbon": "the-lynx-battery.carbon.tiff (TIFF)",
+  "silicon": "the-lynx-battery.silicon.png (PNG)",
+  "seal_sha256": "02c341a52d87dff9ef3e49093ca2f78008d9c949981e2511c4f519ae0c761511",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

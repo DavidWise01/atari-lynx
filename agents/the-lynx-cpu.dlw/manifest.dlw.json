@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The 65C02",
+  "universe": "LYNX · The 65C02 (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The 65C02:LYNX:16f42d⟧",
+  "carbon": "the-lynx-cpu.carbon.tiff (TIFF)",
+  "silicon": "the-lynx-cpu.silicon.png (PNG)",
+  "seal_sha256": "32ec7cfeb4dfde31ff3d1c35df44a200fdc8bae2d17799984f57b954d5649c4b",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

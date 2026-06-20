@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Colour Screen",
+  "universe": "LYNX · The Colour Screen (exereunesis)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Colour Screen:LYNX:04dd58⟧",
+  "carbon": "the-lynx-screen.carbon.tiff (TIFF)",
+  "silicon": "the-lynx-screen.silicon.png (PNG)",
+  "seal_sha256": "902cf34d2e431aedf133fc5927a99f5682f67cf10baaaf60bd9d0a3ae5d98d27",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

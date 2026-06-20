@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Mickey",
+  "universe": "LYNX · Mickey (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦Mickey:LYNX:445076⟧",
+  "carbon": "the-lynx-mickey.carbon.tiff (TIFF)",
+  "silicon": "the-lynx-mickey.silicon.png (PNG)",
+  "seal_sha256": "76ba8a916ca2e586b859a9bacac31fbe344f419990b955fb4c647388a0d88de9",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
