@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 874
+slug  : atari-lynx
+seal  : 7c49f20dd0eb18afeeff33f24e57be593889004d333c93babbff3dd1a46b9414
+prev  : 3aee25dfeb8fe952692c8ffef55f37d25b38763d089a34e94a03b3df3252b2d8
+link  : 8407495e594bab485380e5058e44d85e57627e8dfc4f922be507800797ea49fd
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
